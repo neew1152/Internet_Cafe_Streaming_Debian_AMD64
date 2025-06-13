@@ -45,7 +45,6 @@ After rebooting, log in again and run:
 ```bash
 sudo flatpak install flathub org.mozilla.firefox com.discordapp.Discord && exec icewm
 ```
-then
 ```bash
 startx
 ```
