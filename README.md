@@ -30,7 +30,7 @@ sudo reboot
 
 * `flatpak`: A package manager to install modern apps like Firefox and Discord.
 * `htop`: A system monitor (optional, but useful).
-* `pipewire-audio`: Handles audio for screen sharing and Discord.
+* `pipewire-audio`: Handles audio for Firefox and Discord.
 * `icewm`: A super lightweight window manager.
 * `x11-utils`, `x11-xserver-utils`, `xinit`: Tools to manage the graphical session.
 * `flatpak remote-add`: Adds the Flathub repository (needed to install apps via Flatpak).
@@ -54,7 +54,7 @@ startx
 * Installs **Firefox** and **Discord** from Flathub.
 * `exec icewm`: Starts the IceWM window manager.
 * `startx`: Launches the graphical desktop environment.
-*After this, you can just run `startx` for launches the IceWM*
+*Next time, you can just run `startx` for launches the IceWM*
 
 ---
 
