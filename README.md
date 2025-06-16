@@ -21,14 +21,14 @@ This setup is designed to turn a minimal Debian system into a lightweight stream
 Open a terminal and run the following command:
 
 ```bash
-sudo apt install flatpak htop pipewire-audio icewm x11-utils x11-xserver-utils xinit -y && sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo && sudo reboot
+sudo apt install flatpak htop pulseaudio icewm x11-utils x11-xserver-utils xinit -y && sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo && sudo reboot
 ```
 
 **What this does:**
 
 * `flatpak`: A package manager that installs modern apps.
 * `htop`: A system monitor (optional, but useful).
-* `pipewire-audio`: Handles audio for Firefox and Discord.
+* `pulseaudio`: Handles audio for Firefox and Discord.
 * `icewm`: A super lightweight window manager.
 * `x11-utils`, `x11-xserver-utils`, `xinit`: Tools to manage the graphical session.
 * `flatpak remote-add`: Adds the Flathub repository (needed to install apps via Flatpak).
