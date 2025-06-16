@@ -21,9 +21,7 @@ This setup is designed to turn a minimal Debian system into a lightweight stream
 Open a terminal and run the following command:
 
 ```bash
-sudo apt install flatpak htop pipewire-audio icewm x11-utils x11-xserver-utils xinit -y && 
-sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo && 
-sudo reboot
+sudo apt install flatpak htop pipewire-audio icewm x11-utils x11-xserver-utils xinit -y && sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo && sudo reboot
 ```
 
 **What this does:**
