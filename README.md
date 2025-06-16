@@ -26,7 +26,7 @@ sudo apt install flatpak htop pipewire-audio icewm x11-utils x11-xserver-utils x
 
 **What this does:**
 
-* `flatpak`: A package manager to install modern apps like Firefox and Discord.
+* `flatpak`: A package manager that installs modern apps.
 * `htop`: A system monitor (optional, but useful).
 * `pipewire-audio`: Handles audio for Firefox and Discord.
 * `icewm`: A super lightweight window manager.
@@ -52,13 +52,13 @@ startx
 * Installs **Firefox** and **Discord** from Flathub.
 * `exec icewm`: Starts the IceWM window manager.
 * `startx`: Launches the graphical desktop environment.
-*Next time, you can just run `startx` for launches the IceWM*
+*Next time, you can just run `startx` to launch IceWM*
 
 ---
 
 ## 📺 Optional: Set Display Resolution
 
-If your display doesn't look right, you can manually change the resolution using `xrandr`.
+If your display doesn't look good, you can manually change the resolution using `xrandr`.
 
 ### 1. List Available Displays
 
