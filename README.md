@@ -52,7 +52,7 @@ startx
 * Installs **Firefox** and **Discord** from Flathub.
 * `exec icewm`: Starts the IceWM window manager.
 * `startx`: Launches the graphical desktop environment.
-*Next time, you can just run `startx` to launch IceWM*
+*Next time, you can just run `startx` to launch IceWM.*
 
 ---
 
