@@ -81,9 +81,3 @@ xrandr --output <DISPLAY> --mode <RESOLUTION>
 ```
 
 Replace `<DISPLAY>` with your display name (e.g., `Virtual1`) and `<RESOLUTION>` with your preferred resolution (e.g., `1920x1080`, `1280x720`, etc.).
-
----
-
-## ✅ You're Done!
-
-You now have a minimal, fast Debian system ready to stream via Discord and browse with Firefox. Ideal for virtual machines or low-resource setups.
