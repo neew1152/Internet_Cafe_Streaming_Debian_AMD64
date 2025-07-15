@@ -14,7 +14,7 @@ This setup is designed to turn a minimal Debian system into a lightweight stream
 
 ---
 
-## 🔐 Getting Started: Superuser Setup
+## 🔐 Getting Started: User Setup
 
 ### Step 1: Install Essential Packages
 
