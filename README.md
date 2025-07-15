@@ -4,7 +4,7 @@ This setup is designed to turn a minimal Debian system into a lightweight stream
 
 ---
 
-## 🖥️ System Requirements for 720p Streaming (YouTube Passed)
+## 🖥️ System Requirements for 720p Streaming (YouTube/Netflix Passed)
 
 | Component | Minimum Requirement |
 | --------- | ------------------- |
