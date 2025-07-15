@@ -8,7 +8,7 @@ This setup is designed to turn a minimal Debian system into a lightweight stream
 
 | Component | Minimum Requirement |
 | --------- | ------------------- |
-| CPU       | 2 Cores (x86\_64)   |
+| CPU       | 2-6 Cores (x86\_64) |
 | RAM       | 2 GB                |
 | Storage   | 8 GB                |
 
@@ -17,8 +17,6 @@ This setup is designed to turn a minimal Debian system into a lightweight stream
 ## 🔐 Getting Started: Superuser Setup
 
 ### Step 1: Install Essential Packages
-
-Open a terminal and run the following command:
 
 ```bash
 sudo apt install flatpak htop pavucontrol pipewire icewm x11-utils x11-xserver-utils xinit -y && sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo && sudo reboot
@@ -43,16 +41,21 @@ After rebooting, log in again and run:
 ```bash
 sudo flatpak install flathub org.mozilla.firefox com.discordapp.Discord && exec icewm
 ```
+
+* Installs **Firefox** and **Discord** from Flathub.
+* `exec icewm`: Starts the IceWM window manager.
+
 ```bash
 startx
 ```
 
-**What this does:**
-
-* Installs **Firefox** and **Discord** from Flathub.
-* `exec icewm`: Starts the IceWM window manager.
 * `startx`: Launches the graphical desktop environment.
 *Next time, you can just run `startx` to launch IceWM.*
+
+```bash
+pavucontrol
+```
+Configuration > Profile > Off
 
 ---
 
