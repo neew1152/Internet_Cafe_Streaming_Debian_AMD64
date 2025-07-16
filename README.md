@@ -14,7 +14,7 @@ This setup is designed to turn a minimal Debian system into a lightweight stream
 
 ---
 
-## 🔐 Getting Started: User Setup
+## 🔐 User Setup
 
 ### Step 1: Install Essential Packages
 
@@ -59,7 +59,7 @@ Configuration > Profile > Off
 
 ---
 
-## 📺 Step 3: Set Display Resolution
+## 📺 Set Display Resolution
 
 If your display doesn't look good, you can manually change the resolution using `xrandr`.
 
