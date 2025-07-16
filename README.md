@@ -87,4 +87,6 @@ Replace `<DISPLAY>` with your display name (e.g., `Virtual1`) and `<RESOLUTION>`
 
 ---
 
-รอยยิ้มที่เธอเคยมอบให้กับฉันในตอนนั้น ตอนนี้เธอได้มอบมันให้กับใครบางคน และใครบางคนนั้นไม่มีทางเป็นฉัน
+"The smile she gave me that day — today, she gives it to someone else. And that someone will never be me."
+
+"รอยยิ้มที่เธอเคยมอบให้กับฉันในตอนนั้น ตอนนี้เธอได้มอบมันให้กับใครบางคน และใครบางคนนั้นไม่มีทางเป็นฉัน"
