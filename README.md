@@ -59,7 +59,7 @@ Configuration > Profile > Off
 
 ---
 
-## 📺 Optional: Set Display Resolution
+## 📺 Step 3: Set Display Resolution
 
 If your display doesn't look good, you can manually change the resolution using `xrandr`.
 
