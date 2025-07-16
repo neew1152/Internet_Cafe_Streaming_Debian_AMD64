@@ -8,7 +8,7 @@ This setup is designed to turn a minimal Debian system into a lightweight stream
 
 | Component | Minimum Requirement |
 | --------- | ------------------- |
-| CPU       | 2 - 6 Cores        )|
+| CPU       | 2 - 6 Cores         |
 | RAM       | 2 GB                |
 | Storage   | 8 GB                |
 
