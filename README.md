@@ -84,3 +84,7 @@ xrandr --output <DISPLAY> --mode <RESOLUTION>
 ```
 
 Replace `<DISPLAY>` with your display name (e.g., `Virtual1`) and `<RESOLUTION>` with your preferred resolution (e.g., `1920x1080`, `1280x720`, etc.).
+
+---
+
+รอยยิ้มที่เธอเคยมอบให้กับฉันในตอนนั้น ตอนนี้เธอได้มอบมันให้กับใครบางคน และใครบางคนนั้นไม่มีทางเป็นฉัน
