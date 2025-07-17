@@ -1,4 +1,4 @@
-# Internet_Cafe_Streaming_Server_Debian_AMD64
+# Internet-Cafe-Streaming-Server-Debian-AMD64
 
 This setup is designed to turn a minimal Debian system into a lightweight streaming box for Discord and Firefox — perfect for screen sharing or remote access in environments like virtual machines (tested on VMware).
 
